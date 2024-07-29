@@ -1,6 +1,6 @@
-# Project : Evaluating Food Hygiene Ratings
-## Introduction
-The UK Food Standards Agency evaluated various establishments across the United Kingdom and assigned them food hygiene ratings. To assist the journalists and food critics of *Eat Safe, Love* magazine in analyzing these ratings for their future articles, exploratory analysis was required.
+# Project : Food Hygiene Ratings
+## Project Overview
+The UK Food Standards Agency evaluated various establishments across the United Kingdom and assigned them food hygiene ratings. Therefore, in order to assist the journalists and food critics in analyzing these ratings for their future articles, exploratory analysis was required. As a result, I imported the database through mongoDB into properply labeling and sorting the datebase for further analsys.
 ## Part 1: Database and Jupyter Notebook Setup
 1. **Database Import**:
     
